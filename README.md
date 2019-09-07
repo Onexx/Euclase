@@ -22,3 +22,5 @@ To configure the printer write it's name in PrinterName.txt in settings folder
 To apply any changes in settings files restart the program
 
 To close the program press [delete] button when in menu
+
+Previous project code versions https://github.com/Onexx/Euclase_old
