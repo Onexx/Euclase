@@ -1,0 +1,2 @@
+name = Name of seventh stand
+Here could be description of seventh stand

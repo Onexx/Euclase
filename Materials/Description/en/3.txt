@@ -1,0 +1,2 @@
+name = Name of third stand
+Here could be description of third stand
