@@ -1,0 +1,7 @@
+//You can change width or height walues here, but don't forget spaces 
+WidthOfRectangle = 51
+HeightOfRectangle = 40
+WidthOfCircle = 30
+HeightOfCircle = 30
+//Change colour value in RGB format
+Colour = 153 255 255

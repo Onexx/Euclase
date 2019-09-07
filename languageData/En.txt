@@ -1,0 +1,22 @@
+Return
+Registration
+Navigation
+Camera demo
+Timetable
+Partners
+Info
+Instruction
+Save map
+Open map
+Open background
+Lock for editing
+Print
+Cancel
+Blocking
+Editing will be available by pressing Esc button
+Ok
+Cancel
+Register
+Enter id:
+Name:
+Request
