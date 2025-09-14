@@ -3,6 +3,8 @@
 Program developed by Zaitcev Ilya, team Mobile Indoor Navigation
 23.01.2018
 
+https://baltkonkurs.ru/features/po-godam/2018-2/
+
 Program provides user interface for Service Mobile Module "Follow-up".
 
 For more instructions about using program click [instruction] button in menu
